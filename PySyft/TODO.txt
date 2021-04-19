@@ -1,0 +1,4 @@
+TODO:
+
+- add batches (batch_size = 32)
+- fix aggregated weights loading
